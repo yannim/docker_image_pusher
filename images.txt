@@ -1,4 +1,7 @@
 portainer/portainer-ce:2.21.1
+graylog/graylog-datanode:6.0
+graylog/graylog:6.0
+mongo:5.0
 #支持私库
 
 #支持指定架构
