@@ -3,6 +3,6 @@ graylog/graylog-datanode:6.0
 graylog/graylog:6.0
 mongo:5.0
 #支持私库
-
+containers.intersystems.com/intersystems/irishealth-community:latest-preview
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
